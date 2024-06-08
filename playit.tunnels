@@ -82,7 +82,7 @@
           "agent_id": "04f43273-ce54-45df-b176-4728f03c39cc",
           "agent_name": "skybidi",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 14833
         },
         "type": "agent"
       },
